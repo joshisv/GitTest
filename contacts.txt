@@ -1,6 +1,10 @@
 Keshab Raj Joshi - 9645 Conklin Avenue
 Hem Raj Joshi - 7830 Jolain Drive
+<<<<<<< HEAD
 Shiv Raj Joshi - 4538 Leslie Ave
 Khem Raj Ojha - Tikapu
 Hem Raj Joshi - Kathmandu
 Dev Ojha - Tikapur
+=======
+Khem Raj Ojha - Tikapur
+>>>>>>> 212835f828ec45ad8d94ee37f02c7d517cbcfedd
